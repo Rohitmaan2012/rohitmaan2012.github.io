@@ -5,6 +5,7 @@
 <img src = "images/profile-pic.jpg" width=300>
 
 ---
+
 Use `for` loop
 ```javascript
 var bame = "hitesh";
@@ -16,3 +17,5 @@ hellosir how you are doing<br>
 eddefrfr
 rfrfefe
 *******
+
+>Keep smiling and eat healthy
