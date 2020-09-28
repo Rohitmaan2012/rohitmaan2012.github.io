@@ -5,10 +5,10 @@
 <img src = "images/profile-pic.jpg" width=300>
 
 Use `for` loop
-``javascript
+```javascript
 var bame = "hitesh";
 console.log(name);
-blah blah blah ``
+blah blah blah ```
 
 ``html css
 hello sir
