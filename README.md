@@ -5,7 +5,6 @@
 <img src = "images/profile-pic.jpg" width=300>
 
 Use `for` loop
-``javascript
+`javascript
 var bame = "hitesh";
-console.log(name)
-``
+console.log(name); `
