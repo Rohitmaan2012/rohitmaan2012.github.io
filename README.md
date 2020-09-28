@@ -6,5 +6,6 @@
 
 Use `for` loop
 `javascript
-var bame = "hitesh";
-console.log(name); `
+var bame = "hitesh";<br>
+console.log(name);<br>
+blah blah blah`
