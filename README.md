@@ -9,4 +9,7 @@ Use `for` loop
 var bame = "hitesh";
 console.log(name);
 blah blah blah
+```
+``hello sir
+how are you doing
 ``
