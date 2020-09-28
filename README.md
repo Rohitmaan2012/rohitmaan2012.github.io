@@ -8,8 +8,9 @@ Use `for` loop
 ``javascript
 var bame = "hitesh";
 console.log(name);
-blah blah blah
+blah blah blah ``
+
 ```
-``hello sir
+hello sir
 how are you doing
-``
+```
