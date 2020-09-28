@@ -4,15 +4,15 @@
 <!-- ![rohit maan](images/profile-pic.jpg width=300 "helloji") -->
 <img src = "images/profile-pic.jpg" width=300>
 
---------
+---
 Use `for` loop
-``````javascript
+```javascript
 var bame = "hitesh";
 console.log(name);
 blah blah blah 
-``````
+```
 
 hellosir how you are doing<br>
-edd
-
+eddefrfr
+rfrfefe
 *******
